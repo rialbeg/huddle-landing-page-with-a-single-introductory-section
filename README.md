@@ -52,6 +52,6 @@ Gostaria agora de praticar mais com projetos utilizando o sass buscando consolid
 
 ## Autor
 
-- Website - [Portfolio](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Linkedin - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Portfolio](https://rialbeg.github.io/portfolio/)
+- Frontend Mentor - [@rialbeg](https://www.frontendmentor.io/profile/rialbeg)
+- Linkedin - [@gsamascarenhas](https://www.linkedin.com/in/gsamascarenhas/)
