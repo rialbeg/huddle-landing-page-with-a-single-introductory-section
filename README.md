@@ -2,7 +2,7 @@
 
 Esta é uma solução para o [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
 
-## Indice
+## Índice
 
 - [Overview](#overview)
   - [O Desafio](#O-Desafio)
@@ -29,8 +29,8 @@ O Usuário deve ser capaz de:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://github.com/rialbeg/huddle-landing-page-with-a-single-introductory-section)
+- [Live Site URL](https://rialbeg.github.io/huddle-landing-page-with-a-single-introductory-section/)
 
 ## Meu processo
 
